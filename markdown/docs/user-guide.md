@@ -64,7 +64,7 @@ As with any other Ember build, you'll want to build for the production environme
 ember build --environment production
 ```
 
-**You are strongly encouraged to automate deploys using [Ember CLI Deploy][ember-cli-deploy].**
+**You are strongly encouraged to automate deploys using [Ember CLI Deploy](ember-cli-deploy).**
 There are a number of FastBoot-compatible deploy plugins, with more being authored every day.
 
 Manual deployment is slow and error-prone, and even if you have a custom deployment process, writing an Ember CLI Deploy plugin is straightforward and will save you time and energy in the future.
